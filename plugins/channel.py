@@ -25,7 +25,7 @@ DEFAULT_IMAGE_URL = "https://te.legra.ph/file/88d845b4f8a024a71465d.jpg"
 SILENTX_PREMIUM_UPDATE = """
 <blockquote>🎬 𝕻ℝ𝔼𝕄𝕀𝕌𝕄 𝕄𝕆𝕍𝕀𝔼 𝕌ℙ𝔻𝔸𝕋𝔼 🎥</blockquote>
 
-<b><u>{}</u></b> <code>#{}</code>
+ᴛɪᴛʟᴇ » <code>{}</code> <b>#{}</b>
 
 <code>━━━━━━━━━━━━━━━━━━</code>
 <b>🔈 Audio</b>: {}
@@ -38,7 +38,7 @@ SILENTX_PREMIUM_UPDATE = """
 <b>🏷️ Genres</b>: {}
 <code>━━━━━━━━━━━━━━━━━━</code>
 
-<b>⚡ Powered By @SilentXBotz</b>
+<b>⚡ Powered By @RkCineHub</b>
 """
 
 notified_movies = set()
