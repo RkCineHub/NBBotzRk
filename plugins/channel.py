@@ -115,7 +115,7 @@ async def send_professional_update(bot, clean_title, is_series, files):
             f"<blockquote><b>⚡ Powered by @RkCineHub</b></blockquote>"
         )
 
-        search_url = f"https://t.me/{temp.U_NAME}?start=search_{title.replace(' ', '+')}"
+        search_url = f"https://telegram.me/{temp.U_NAME}?start=getfile-{search_movie}"
         buttons = [
             [InlineKeyboardButton("📥 Get File", url=search_url)],
             [InlineKeyboardButton("🔎 Tap to Search", url="https://t.me/Rk2x_Request")]
